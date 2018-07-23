@@ -6,14 +6,10 @@
         <item>ttyS2</item>
         <item>ttyS3</item>
         <item>ttyS4</item>
-        <item>ttyS5</item>
-        <item>ttyS6</item>
-        <item>ttyS7</item>
-        <item>ttyS8</item>
-        <item>ttyS9</item>
-        <item>ttyXRM0</item>
-        <item>ttyXRM1</item>
-        <item>ttymxc1</item>
+        <item>ttyGS0</item>
+        <item>ttyGS1</item>
+        <item>ttyGS2</item>
+        <item>ttyGS3</item>
     </string-array>
     <string-array name="baud_rate">
         <item>4800</item>
@@ -23,6 +19,7 @@
         <item>43000</item>
         <item>56000</item>
         <item>57600</item>
+        <item>115200</item>
     </string-array>
     <string-array name="check">
         <item>无校验</item>

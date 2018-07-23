@@ -18,6 +18,9 @@ public class AryChangeManager {
         for(int i=0;i<data.length;i++) {
             buf[i] = (byte) (data[i] & 0x000000ff);
         }
+        for(int jjj:buf){
+            Log.i("TAG","jjj="+jjj);
+        }
         return buf;
     }
 
